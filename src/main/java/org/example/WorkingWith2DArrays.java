@@ -14,7 +14,6 @@ public class WorkingWith2DArrays {
                 new char[]{'0', '-', '-'},
                 new char[]{'0', '-', '-'},
                 new char[]{'0', '-', '-'},
-
         };
         board [0][0]= '0';
         board [0][1]= '0';
