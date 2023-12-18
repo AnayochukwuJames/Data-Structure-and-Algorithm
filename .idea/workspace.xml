@@ -7,6 +7,7 @@
     <list default="true" id="8f2add8b-1e17-403f-a2cf-cd352d478559" name="Changes" comment="Updating initial commit">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RandomNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WorkingWithStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WorkingWith2DArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WorkingWith2DArrays.java" afterDir="false" />
@@ -26,19 +27,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2V69h0BKqd6JSXG2TqUx2yqihEV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/decagon/Documents/my project/Data-Structure-and-Algorithm/src/main/java/org/example&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/decagon/Documents/my project/Data-Structure-and-Algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example" />
@@ -50,7 +71,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RandomNumber">
+  <component name="RunManager" selected="Application.WorkingWithLists">
     <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.RandomNumber" />
       <module name="Data-Structure-and-Algorithm" />
@@ -66,6 +87,19 @@
     </configuration>
     <configuration name="TheArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.TheArrays" />
+      <module name="Data-Structure-and-Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Thread" />
       <module name="Data-Structure-and-Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -105,9 +139,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WorkingWithLists" />
+        <item itemvalue="Application.Thread" />
         <item itemvalue="Application.RandomNumber" />
         <item itemvalue="Application.WorkingWith2DArrays" />
-        <item itemvalue="Application.WorkingWithLists" />
         <item itemvalue="Application.TheArrays" />
       </list>
     </recent_temporary>
@@ -120,6 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694145780166</updated>
+      <workItem from="1702791273016" duration="2460000" />
     </task>
     <task id="LOCAL-00001" summary="Updating initial commit">
       <option name="closed" value="true" />
@@ -145,8 +181,27 @@
       <option name="project" value="LOCAL" />
       <updated>1695006963515</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updating initial commit">
+      <option name="closed" value="true" />
+      <created>1702798086856</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702798086856</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updating initial commit">
+      <option name="closed" value="true" />
+      <created>1702798238958</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702798238958</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updating initial commit" />

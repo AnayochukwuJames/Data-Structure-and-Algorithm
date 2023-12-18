@@ -12,6 +12,7 @@ public class WorkingWithLists {
         colors.add("james");
         colors.add("pink");
         System.out.println(colors);
+
         System.out.println(colors.contains("blue"));
         System.out.println(colors.contains("james"));
         System.out.println(colors.size());
