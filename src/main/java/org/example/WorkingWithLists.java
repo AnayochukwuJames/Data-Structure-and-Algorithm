@@ -9,12 +9,12 @@ public class WorkingWithLists {
         colors.add("white");
         colors.add("red");
         colors.add("black");
-        colors.add("james");
+        colors.add("Orange");
         colors.add("pink");
         System.out.println(colors);
 
         System.out.println(colors.contains("blue"));
-        System.out.println(colors.contains("james"));
+        System.out.println(colors.contains("Orange"));
         System.out.println(colors.size());
 
         for (String color : colors){
