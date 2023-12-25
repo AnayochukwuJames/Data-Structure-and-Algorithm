@@ -11,7 +11,7 @@ public class WorkingWithQueue {
         market.add(new Person("Collins", 28));
         market.add(new Person("Victor", 20));
         market.add(new Person("David", 24));
-        market.add(new Person("Samuel", 19));
+        market.add(new Person("Samuel", 26));
         System.out.println(market.size());
         System.out.println(market.poll());
         System.out.println(market.poll());
@@ -19,5 +19,7 @@ public class WorkingWithQueue {
         System.out.println(market.size());
 
     }
-    static record Person(String Name, int age){};
+    static record Person(String Name, int age){
+
+    };
 }
