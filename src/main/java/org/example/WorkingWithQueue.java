@@ -6,11 +6,10 @@ import java.util.Queue;
 public class WorkingWithQueue {
     public static void main(String[] args) {
         Queue<Person> market = new LinkedList<>();
-        market.add(new Person("James", 18));
-        market.add(new Person("Micheal", 12));
-        market.add(new Person("Paul", 77));
-        market.add(new Person("Collins", 54));
-        market.add(new Person("Victor", 35));
+        market.add(new Person("James", 28));
+        market.add(new Person("Paul", 29));
+        market.add(new Person("Collins", 28));
+        market.add(new Person("Victor", 20));
         market.add(new Person("David", 24));
         market.add(new Person("Samuel", 19));
         System.out.println(market.size());
