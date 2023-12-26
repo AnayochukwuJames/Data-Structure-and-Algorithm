@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f2add8b-1e17-403f-a2cf-cd352d478559" name="Changes" comment="Updating initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WorkingWithQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,6 +154,7 @@
       <workItem from="1702791273016" duration="3457000" />
       <workItem from="1703031081191" duration="325000" />
       <workItem from="1703241463924" duration="2586000" />
+      <workItem from="1703324359525" duration="1011000" />
     </task>
     <task id="LOCAL-00001" summary="Updating initial commit">
       <option name="closed" value="true" />
@@ -226,7 +228,39 @@
       <option name="project" value="LOCAL" />
       <updated>1703031130768</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updating initial commit">
+      <option name="closed" value="true" />
+      <created>1703324409145</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703324409145</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updating initial commit">
+      <option name="closed" value="true" />
+      <created>1703324435968</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703324435968</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updating initial commit">
+      <option name="closed" value="true" />
+      <created>1703543578490</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703543578490</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Updating initial commit">
+      <option name="closed" value="true" />
+      <created>1703546020061</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703546020061</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
