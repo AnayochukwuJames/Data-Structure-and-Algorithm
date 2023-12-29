@@ -7,9 +7,13 @@ public class WorkingWithStack {
         Stack<String> stack = new Stack<String>();
 //        System.out.println(stack.empty());
         stack.push("James");
+
         stack.push("Desmond");
+
         stack.push("Victor");
+
         stack.push("Collins");
+
         stack.push("Queen");
         stack.push("Samuel");
         stack.push("David");
