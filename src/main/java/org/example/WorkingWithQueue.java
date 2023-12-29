@@ -7,7 +7,7 @@ public class WorkingWithQueue {
     public static void main(String[] args) {
         Queue<Person> market = new LinkedList<>();
         market.add(new Person("James", 28));
-        market.add(new Person("Anayo", 29));
+        market.add(new Person("John", 29));
         market.add(new Person("Collins", 28));
         market.add(new Person("Victor", 20));
         market.add(new Person("David", 24));
