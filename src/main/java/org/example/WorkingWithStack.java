@@ -11,9 +11,9 @@ public class WorkingWithStack {
         stack.push("Queen");
         stack.push("Samuel");
         stack.push("David");
-        stack.push("Paul");
+        stack.push("John");
         System.out.println(stack.empty());
-        System.out.println(stack.search("John"));
+        System.out.println(stack.search("Paul"));
         System.out.println(stack.peek());
         System.out.println(stack.pop());
         System.out.println(stack.pop());
